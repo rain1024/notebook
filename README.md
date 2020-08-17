@@ -2,4 +2,22 @@
 
 Thấy các bạn note hay quá, thử sử dụng gimp làm notebook 
 
-- Custom Brush
+# Templates
+
+- A4 Cornel with grid
+
+[TBD]
+
+# Brushes
+
+- Note Brushes
+
+[TBD]
+
+# Pallets
+
+- Note Pallets
+
+[TBD]
+
+
