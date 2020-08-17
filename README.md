@@ -28,7 +28,12 @@ Ref: https://www.youtube.com/watch?v=1Nfy15eikx8
 
 - Note Brushes
 
+- Normal: size (3), aspect ratio (0), angle (0), spacing (20), hardness (100)
 [TBD]
+
+# Colors
+
+- cyan (#12dddd)
 
 # Pallets
 
